@@ -5,4 +5,4 @@
 
 ![image](https://github.com/dbgusrbs/react-budget-deploy-test-app/assets/83695003/aeb2413a-3824-4a16-a42e-bfde116e4472)
 
-## [Demo]([http://localhost:3000/](https://dbgusrbs.github.io/react-budget-deploy-test-app/)https://dbgusrbs.github.io/react-budget-deploy-test-app/)
+## [Demo](https://dbgusrbs.github.io/react-budget-deploy-test-app/)

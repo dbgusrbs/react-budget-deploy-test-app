@@ -4,4 +4,4 @@
 - 목록 지우기 누르면 모두 삭제
 
 ![image](https://github.com/dbgusrbs/react-budget-deploy-test-app/assets/83695003/a0b040ce-2a13-4f33-a088-e3f2bf7cb922)
-### [demo](http://localhost:3000/)
+## [Demo](http://localhost:3000/)
